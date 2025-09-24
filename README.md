@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Jayson Lartey! 👋
 
-<!--
-**jaysonlartey/jaysonlartey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduating Computer Science student at John Abbott College**  
+💻 **Aspiring Software Developer** | Always learning, always building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about software development and eager to kickstart my career in tech! With hands-on experience in both front-end and back-end projects, I love building practical solutions and exploring new technologies.
+
+- 🔥 **Top Skills:**  
+  TypeScript | JavaScript | C# | Python | Kotlin | React
+
+- 🎭 **Featured Projects:**  
+  - [JacTheatreFrontend](https://github.com/John-Abbott-College/JacTheatreFrontend)  
+  - [JacTheatreBackend](https://github.com/John-Abbott-College/JacTheatreBackend)  
+
+- 🌱 **Currently:**  
+  - Completing my Computer Science diploma  
+  - Looking for development opportunities
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn: Jayson Lartey](https://www.linkedin.com/in/jaysonlartey)  
+
+---
+
+## ⚡ Fun Facts
+
+- I love playing Rocket League 🚗⚽
+- Big football fan! 🏈⚽
+
+---
+
+_Thanks for visiting my profile! Let's connect and build something awesome together._
